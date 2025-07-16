@@ -6,7 +6,7 @@ Last Updated: July 16, 2025
 
 Thank you for using our services. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use:
 
-Our website: https://xdkomel.ru
+Our website: https://iualumni.netlify.app/
 
 ### Our mobile app: IU Alumni
 
@@ -41,7 +41,7 @@ Provide personalized user experiences
 
 Allow profile customization
 
-Monitor traffic and user behavior through Yandex Metrica
+Monitor traffic through Yandex Metrica
 
 We do not:
 
